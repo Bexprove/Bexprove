@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rakshith Baskar!  
 
-🚀 **Robotics Software Engineer | MS in Robotics @ ASU | AI & Autonomous Systems**  
+**Robotics Software Engineer | MS in Robotics @ ASU | AI & Autonomous Systems**  
 
 I am a **Master’s student in Robotics & Autonomous Systems at Arizona State University**, passionate about **robotics software, AI-driven automation, and autonomous systems**. My work focuses on **robot motion planning, perception, and AI-driven solutions** for real-world applications.  
 
