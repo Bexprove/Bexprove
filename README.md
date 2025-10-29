@@ -20,9 +20,9 @@ I am a **Master’s student in Robotics & Autonomous Systems at Arizona State Un
 - **Data & Design Tools:** MATLAB, SQL, Tableau, SOLIDWORKS, Fusion 360  
 
 ## 🔹 Experience  
- **Apprenticeship at BELIV Lab, ASU** - Integration of Cameras and Lidar for autonomus vehicle
- **Research Intern @ Yokohama National University** – Integrated **ROS2 with robotic 3D printing**, optimizing construction planning by **90%**  
- **Lane Detection Robot** – Designed an **autonomous navigation system with ROS2**  
+ - **Apprenticeship at BELIV Lab, ASU** - Integration of Cameras and Lidar for autonomus vehicle
+ - **Research Intern @ Yokohama National University** – Integrated **ROS2 with robotic 3D printing**, optimizing construction planning by **90%**  
+ - **Lane Detection Robot** – Designed an **autonomous navigation system with ROS2**  
 
 🏆 **Hackathon Winner:** Designed a **robotic leg exoskeleton** to enhance miner safety & reduce fatigue  
 
