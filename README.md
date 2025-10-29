@@ -5,14 +5,16 @@
 I am a **Master’s student in Robotics & Autonomous Systems at Arizona State University**, passionate about **robotics software, AI-driven automation, and autonomous systems**. My work focuses on **robot motion planning, perception, and AI-driven solutions** for real-world applications.  
 
 ## 🔹 About Me  
-- 🎓 Pursuing **MS in Robotics & Autonomous Systems (Systems Engineering)** at **ASU**  
-- 🤖 Specializing in **ROS2, Computer Vision, AI/ML, and Autonomous Systems**  
-- 🔍 Interested in **robotics software, motion planning, and AI-powered perception**  
+- Pursuing **MS in Robotics & Autonomous Systems (Systems Engineering)** at **ASU**  
+- Specializing in **ROS2, Computer Vision, AI/ML, and Autonomous Systems**  
+- Interested in **robotics software, motion planning, and AI-powered perception**  
 
 ## 🔹 Current Projects  
-- 💡 **SwallowSphere** – A smart therapy device integrating sensors & data analytics  
-- 🎯 **Digital Twin for MyCobot Pro 600** – Simulated in **ROS2 & MoveIt**  
-- 🔬 **Object Segmentation** using **Gaussian Mixture Models (GMM) in OpenCV**  
+
+- **GreenHive** - A swarm of drone projects aiming to find a  solution for agricultural farming.
+- **SwallowSphere** – A smart therapy device integrating sensors & data analytics  
+- **Digital Twin for MyCobot Pro 600** – Simulated in **ROS2 & MoveIt**  
+- **Object Segmentation for Lane Detection** using **Gaussian Mixture Models (GMM) in OpenCV and PID Tuning for navigation**  
 
 ## 🔹 Technical Skills  
 - **Languages:** Python, C++, Java, XML  
@@ -26,9 +28,9 @@ I am a **Master’s student in Robotics & Autonomous Systems at Arizona State Un
 
 🏆 **Hackathon Winner:** Designed a **robotic leg exoskeleton** to enhance miner safety & reduce fatigue  
 
-## 🌍 Let's Connect!  
-📧 Email: [rbaskar5@asu.edu](mailto:rbaskar5@asu.edu)  
-🔗 LinkedIn: [linkedin.com/in/rakshithbaskar](http://linkedin.com/in/rakshithbaskar)  
-💻 GitHub: [github.com/bexprove](http://github.com/bexprove)  
+## Let's Connect!  
+Email: [rbaskar5@asu.edu](mailto:rbaskar5@asu.edu)  
+LinkedIn: [linkedin.com/in/rakshithbaskar](http://linkedin.com/in/rakshithbaskar)  
+GitHub: [github.com/bexprove](http://github.com/bexprove)  
 
 📌 *Always open to discussions, collaborations, and learning opportunities in robotics & AI!* 🚀
